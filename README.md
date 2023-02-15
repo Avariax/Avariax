@@ -12,7 +12,7 @@ Estou aprendendo a criar modelos em 3D e a me tornar um programador...
   <a href="https://www.adobe.com/br/products/photoshop/landpa.html?gclid=Cj0KCQiAorKfBhC0ARIsAHDzslsInJZcyokRBRx8gpILEMkEJizkauTELIx_gyAMGeRSslTh0NiKPTMaAr7JEALw_wcB&sdid=KQPOM&mv=search&ef_id=Cj0KCQiAorKfBhC0ARIsAHDzslsInJZcyokRBRx8gpILEMkEJizkauTELIx_gyAMGeRSslTh0NiKPTMaAr7JEALw_wcB:G:s&s_kwcid=AL!3085!3!534509111647!e!!g!!adobe%20photoshop!188192502!10077842982"><img aling="center" alt="Blender" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/></div><br/>
 
 ## 🌟 GitHub Stats
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avariax&show_icons=true&theme=dracula)](https://github.com/yourusername)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avariax&show_icons=true&theme=tokyonight)](https://github.com/yourusername)
 
 ## 🗿 Portfólio
 [![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9.svg?style=for-the-badge&logo=Sketchfab&logoColor=white)](https://sketchfab.com/avariax)
